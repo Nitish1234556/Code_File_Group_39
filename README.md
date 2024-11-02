@@ -1,9 +1,8 @@
-          Group - 39
+
 Nitish Choudhary         2023MCB1305
 Abhijeet Kumar Das       2023MCB1057
 Anand Patel              2023MCB1287
-
-Mentor - Seema Barda     
+   
 
 Project Name - Implementation of Merkle Tree
 
